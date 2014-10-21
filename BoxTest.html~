@@ -1,47 +1,13 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<link href='http://fonts.googleapis.com/css?family=Bitter:400,700' rel='stylesheet' type='text/css'>
 <title>Box Test</title>
 <meta charset="utf-8" />
 <link rel="stylesheet" href="style.css">
 <link href='http://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
 <style>
-#heading
-	{
-  margin-left: 3em;
-  border:1px solid;
-  background-color:maroon;
-  color: white;
-  border-radius: 50px;
-  font-family: 'Bitter', serif;
-  padding: 0em;
-  }
- #heading h1
- {
-  margin:0em;
-  padding:0em;
- }
- 
-.textbox
- 	{
-  margin: .5em;
-  border: 1px solid;
-  background-color: blanchedalmond;
-  padding: 1em;
-  border-radius: 25px;
-  font-family: 'Bitter', serif;
-  height: 30em;
-  }
-#column1
-	{
-  margin-left: 2.5em;
-  	}
-#column2
-	{
-  margin-right: 1em;
-  	}
+
 </style>
 </head>
 <body>
